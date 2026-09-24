@@ -37,4 +37,8 @@ public class gestorproductos {
         }
         return false;
     }
+    
+    void test(){
+        System.out.println("test");
+    }
 }
